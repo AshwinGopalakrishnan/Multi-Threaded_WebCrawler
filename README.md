@@ -1,4 +1,6 @@
-# WebCrawler Project
+# Multi- Threaded WebCrawler Operating Systems Project
+
+### Group Members: Daniel Shin, Kamil Elwawi, Ashwin Gopalakrishnan, Gharam Mansour and Thuan Nguyen
 
 ## Overview
 The WebCrawler is a simple Java application designed to navigate web pages starting from a given URL, extracting links and visiting them up to a specified depth and link count. 
@@ -28,4 +30,5 @@ No installation is needed other than having Java installed on your machine. Clon
 ```bash
 git clone https://github.com/yourusername/webcrawler.git
 cd webcrawler
+
 

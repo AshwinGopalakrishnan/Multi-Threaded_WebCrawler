@@ -1,4 +1,4 @@
-# Multi- Threaded WebCrawler Operating Systems Project
+# Multi-Threaded WebCrawler Operating Systems Project
 
 ### Group Members: Daniel Shin, Kamil Elwawi, Ashwin Gopalakrishnan, Gharam Mansour and Thuan Nguyen
 
